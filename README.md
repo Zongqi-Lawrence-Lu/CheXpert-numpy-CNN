@@ -19,10 +19,11 @@ It is a self-contained prototype to study model construction and optimization wi
 
 # Development Progress
 
-Version | Features 
-  v1.0  | Built the overall CNN architecture in NumPy
-  v1.1  | Added momentum and batch processing
-  v1.2  | Parallelized computation across channels in hidden layers
+| Version | Features                                                                 |
+|---------|--------------------------------------------------------------------------|
+| v1.0    | Built the overall CNN architecture in NumPy                              |
+| v1.1    | Added momentum and batch processing                                      |
+| v1.2    | Parallelized computation across channels in hidden layers  
 
 
 # Current Status
